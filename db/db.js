@@ -155,7 +155,7 @@ export default {
 				projectName: "Risk Minimization for Portfolio Management",
 				image: "images/rescaled_risk_portifolio.jpg",
 				summary:
-					"Minimizink risk for portifolio stocks.",
+					"Minimizing risks for a portfolio with B3 stocks.",
 				preview: "https://github.com/FelipeConsole/Playing_with_stocks",
 				techStack: ["Julia", "Stocks", "Risk Management"],
 			},
@@ -234,7 +234,7 @@ export default {
 				" General Relativity",
 				"Black Holes",
 				"Anti-de Sitter Spacetime",
-				"Scalar-Tensor Theoris of Gravity",
+				"Scalar-Tensor Theories of Gravity",
 			],
 			icon: "graduation-cap",
 		},
