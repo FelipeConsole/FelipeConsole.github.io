@@ -143,22 +143,22 @@ export default {
 			// },
 		],
 		android: [
-			{
-				projectName: "Classification",
-				image: "images/titanic.jpg",
-				summary:
-					"Classification for the Titanic dataset.",
-				preview: "https://github.com/FelipeConsole/classification",
-				techStack: ["Python", "Machine Learning", "Classification"],
-			},
-			{
-				projectName: "Risk Minimization for Portfolio Management",
-				image: "images/rescaled_risk_portifolio.jpg",
-				summary:
-					"Minimizing risks for a portfolio with B3 stocks.",
-				preview: "https://github.com/FelipeConsole/Playing_with_stocks",
-				techStack: ["Julia", "Stocks", "Risk Management"],
-			},
+			// {
+			// 	projectName: "Classification",
+			// 	image: "images/titanic.jpg",
+			// 	summary:
+			// 		"Classification for the Titanic dataset.",
+			// 	preview: "https://github.com/FelipeConsole/classification",
+			// 	techStack: ["Python", "Machine Learning", "Classification"],
+			// },
+			// {
+			// 	projectName: "Risk Minimization for Portfolio Management",
+			// 	image: "images/rescaled_risk_portifolio.jpg",
+			// 	summary:
+			// 		"Minimizing risks for a portfolio with B3 stocks.",
+			// 	preview: "https://github.com/FelipeConsole/Playing_with_stocks",
+			// 	techStack: ["Julia", "Stocks", "Risk Management"],
+			// },
 		],
 		freelance: [
 			// {
